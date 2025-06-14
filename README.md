@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-- I’m currently learning JavaScript,Data Structures & Algorithms,Reacts.js,Tailwind CSS
+- I’m currently learning :
+- JavaScript
+- Data Structures & Algorithms
+- Reacts.js
+- Tailwind CSS
 
 <!--
 **Gopal-G0/Gopal-G0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
