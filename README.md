@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I’m currently learning :
+I’m currently learning :
 - JavaScript
 - Data Structures & Algorithms
 - Reacts.js
