@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is Gopal. Aspiring Software Developer & Engineer
 
 I’m currently learning :
 - JavaScript
