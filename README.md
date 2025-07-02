@@ -1,10 +1,8 @@
 ## This is Gopal. Aspiring Software Developer & Engineer
 
 I’m currently learning :
-- JavaScript
+- JavaScript(DOM)
 - Data Structures & Algorithms
-- Reacts.js
-- Tailwind CSS
 
 📫 How to reach me : heyitsmegopal@gmail.com
 
