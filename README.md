@@ -4,7 +4,7 @@ I’m currently learning :
 - JavaScript(DOM)
 - Data Structures & Algorithms
 
-📫 How to reach me : heyitsmegopal@gmail.com
+📫 Please reach me at : heyitsmegopal@gmail.com
 
 <!--
 **Gopal-G0/Gopal-G0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
