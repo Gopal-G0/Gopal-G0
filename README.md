@@ -1,7 +1,7 @@
 ## This is Gopal. Aspiring Software Developer & Engineer
 
 I’m currently learning :
-- JavaScript(DOM)
+- Backend - NodeJS & Express.js
 - Data Structures & Algorithms
 
 📫 Please reach me at : heyitsmegopal@gmail.com
