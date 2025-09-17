@@ -1,7 +1,7 @@
 ## This is Gopal. Aspiring Software Developer & Engineer
 
 I’m currently learning :
-- Backend and Databases
+- ReactJs & Backend
 - Data Structures & Algorithms
 
 📫 Please reach me at : heyitsmegopal@gmail.com
