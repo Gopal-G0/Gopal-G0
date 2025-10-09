@@ -1,9 +1,9 @@
 <h3> >> /whoami </h3>
-<h2>Gopal</h2>
+<h1>Gopal</h1>
 
-# >> /cd
+<h3> >> /cd </h3>
 Developer & Engineer
-## I enjoy engineering & technology more than anything.
+<h1>I enjoy engineering & technology more than anything.</h1>
 
 I’m currently learning :
 - ReactJs
