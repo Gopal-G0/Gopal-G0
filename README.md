@@ -5,8 +5,6 @@
 
   
   ## 👨‍💻 Developer & Engineer
-  ## 🚀 I enjoy engineering & technology more than anything 
-  
   <!-- Add some badges -->
   
   <!-- GitHub stats -->
