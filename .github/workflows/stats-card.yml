@@ -3,19 +3,19 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: '0 0 * * *'  # Updates weekly
+    - cron: '0 0 * * *'  # Updates daily
 
 jobs:
   update:
     name: Update stats card
-    runs-on: ubuntu latest
+    runs-on: ubuntu-latest
     steps:
       - uses: datarootsio/github-stats-card@v1
         with:
-          username: Gopal-G0  # Your GitHub username
+          username: Gopal-G0
           gh_token_stats: ${{ secrets.GH_PAT }}
           gh_token_commits: ${{ secrets.GITHUB_TOKEN }}
           badge_path: assets/badge.svg
           header: "👋 hi i'm"
           about: "Gopal Here"
-          theme: dark  # Choose from available themes
+          theme: dark
