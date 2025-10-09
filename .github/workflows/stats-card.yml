@@ -3,13 +3,18 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: '0 0 * * *'  # Updates daily
+    - cron: '0 0 * * *'
 
 jobs:
   update:
     name: Update stats card
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
       - uses: datarootsio/github-stats-card@v1
         with:
           username: Gopal-G0
