@@ -1,9 +1,9 @@
-<div style = "display:flex; align-items:center; justify-content:center" >
+<div style = "display:flex; align-items:center;" >
   <h3> >> /whoami </h3>
  <h1>Gopal</h1>
  <h3> >> /cd </h3>
  Developer & Engineer
-  <div>
+</div>
 <h1>I enjoy engineering & technology more than anything.</h1>
 
 I’m currently learning :
