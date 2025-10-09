@@ -6,7 +6,7 @@ I’m currently learning :
 - Backend Development
 - Data Structures & Algorithms
 
-- ## I enjoy engineering & technology more than anything.
+## I enjoy engineering & technology more than anything.
 📫 Please reach me at : heyitsmegopal@gmail.com
 
 <!--
