@@ -17,10 +17,10 @@ jobs:
         
       - uses: datarootsio/github-stats-card@v1
         with:
-          username: Gopal-G0
+          username: Gopal
           gh_token_stats: ${{ secrets.GH_PAT }}
           gh_token_commits: ${{ secrets.GITHUB_TOKEN }}
           badge_path: assets/badge.svg
           header: "👋 hi i'm"
-          about: "Gopal Here"
-          theme: dark
+          about: "I love engneering & technology more than anything"
+          theme: terminal-green
