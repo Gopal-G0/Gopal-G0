@@ -1,12 +1,11 @@
 <div align="center">
-  <h3> ➔ /whomai</h3>
+  <h2> ➔ /whomai</h2>
 
   <img width="433" height="204" alt="ascii-art-text" src="https://github.com/user-attachments/assets/81cf1e20-f5cf-4f8e-80f8-4602cc62bb8c" />
 
   
-  <h3>👨‍💻 Developer & Engineer</h3>
-  
-  <p>🚀 I enjoy engineering & technology more than anything</p>
+  ## 👨‍💻 Developer & Engineer
+  ## 🚀 I enjoy engineering & technology more than anything 
   
   <!-- Add some badges -->
   
