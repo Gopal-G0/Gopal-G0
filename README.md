@@ -1,5 +1,7 @@
 # >> /whoami
-## This is Gopal. 
+## Gopal.
+
+# >> /cd
 Developer & Engineer
 ## I enjoy engineering & technology more than anything.
 
