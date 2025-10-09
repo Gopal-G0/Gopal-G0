@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> >> /whomai</h3>
+  <h3> -> /whomai</h3>
   <h1>Gopal</h1>
   
   <h3>👨‍💻 Developer & Engineer</h3>
