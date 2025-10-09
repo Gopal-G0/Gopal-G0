@@ -1,4 +1,4 @@
-<div>
+<div style = "display:flex; align-items:center; justify-content:center" >
   <h3> >> /whoami </h3>
  <h1>Gopal</h1>
  <h3> >> /cd </h3>
