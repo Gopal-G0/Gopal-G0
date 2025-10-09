@@ -1,4 +1,7 @@
-## This is Gopal. Aspiring Software Developer & Engineer
+### --> /whoami
+## This is Gopal. 
+Developer & Engineer
+## I enjoy engineering & technology more than anything.
 
 I’m currently learning :
 - ReactJs
@@ -6,7 +9,6 @@ I’m currently learning :
 - Backend Development
 - Data Structures & Algorithms
 
-## I enjoy engineering & technology more than anything.
 📫 Please reach me at : heyitsmegopal@gmail.com
 
 <!--
