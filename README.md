@@ -1,4 +1,4 @@
-### --> /whoami
+# >> /whoami
 ## This is Gopal. 
 Developer & Engineer
 ## I enjoy engineering & technology more than anything.
