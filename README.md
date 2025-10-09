@@ -1,19 +1,16 @@
-<div style = "display:flex; align-items:center; justify-content:center" >
-  <h3> >> /whoami </h3>
- <h1>Gopal</h1>
- <h3> >> /cd </h3>
- Developer & Engineer
+<div align="center">
+  <h3> >> /whomai</h3>
+  <h1>Gopal</h1>
+  
+  <h3>👨‍💻 Developer & Engineer</h3>
+  
+  <p>🚀 I enjoy engineering & technology more than anything</p>
+  
+  <!-- Add some badges -->
+  
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopal-G0&show_icons=true&theme=radical" />
 </div>
-<h1>I enjoy engineering & technology more than anything.</h1>
-
-I’m currently learning :
-- ReactJs
-- Tailwind CSS
-- Backend Development
-- Data Structures & Algorithms
-
-📫 Please reach me at : heyitsmegopal@gmail.com
-
 <!--
 **Gopal-G0/Gopal-G0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
