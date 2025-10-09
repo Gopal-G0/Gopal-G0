@@ -1,5 +1,5 @@
-<h3 style="text-align:center"> >> /whoami </h3>
-<h1 style="text-align:center">Gopal</h1>
+<h3 style="align-items:center"> >> /whoami </h3>
+<h1 style="align-items:center">Gopal</h1>
 <h3> >> /cd </h3>
 Developer & Engineer
 <h1>I enjoy engineering & technology more than anything.</h1>
