@@ -10,7 +10,7 @@
   <!-- Add some badges -->
   
   <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gopal-G0&show_icons=true&theme=radical" />
+ ![GitHub Stats](assets/badge.svg)
 </div>
 <!--
 **Gopal-G0/Gopal-G0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
