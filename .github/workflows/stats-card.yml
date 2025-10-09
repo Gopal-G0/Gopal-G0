@@ -8,7 +8,7 @@ on:
 jobs:
   update:
     name: Update stats card
-    runs-on: omarchy
+    runs-on: ubuntu latest
     steps:
       - uses: datarootsio/github-stats-card@v1
         with:
