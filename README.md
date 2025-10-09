@@ -1,7 +1,9 @@
-<h3 style="align-items:center"> >> /whoami </h3>
-<h1 style="align-items:center">Gopal</h1>
-<h3> >> /cd </h3>
-Developer & Engineer
+<div>
+  <h3> >> /whoami </h3>
+ <h1>Gopal</h1>
+ <h3> >> /cd </h3>
+ Developer & Engineer
+  <div>
 <h1>I enjoy engineering & technology more than anything.</h1>
 
 I’m currently learning :
