@@ -3,7 +3,7 @@
 </div>
 
 ```
-❯ whoami
+gopal@dev$ ❯ whoami
 
   
      █████████                               ████ 
@@ -18,7 +18,7 @@
                          █████                    
                         ░░░░░                     
 
-❯ interests
+gopal@dev$ ❯ interests
 - i love to tweak with techs. 
 - I Love engineering and tech more than anything.
 
@@ -26,7 +26,7 @@
 
 ## Techs & Skills
 ```
- ❯ Skills
+ gopal@dev$ ❯ Skills
  |
  ├── Programming Languages/
  |   ├── C++
@@ -50,7 +50,7 @@
       ├── REST-API
       
 
-❯ Tech & Skills i am loving to learn
+gopal@dev$ ❯ Tech & Skills i am loving to learn
 
 ├── Golang
 ├── Databases
