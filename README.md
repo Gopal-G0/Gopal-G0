@@ -25,13 +25,31 @@
 
 ## Techs & Skills
 ```
- Techs i love 	
+ Skills
+ |
+ ├── Programming Languages/
+ |   ├── C++
+ |   ├── JavaScript
+ |   ├── Python
+ |   ├── C
+ |
+ ├── Frontend/
+ |    ├── ReactJs
+ |    ├── Tailwind-CSS
+ |    ├── JavaScript
+ |    ├── HTML, CSS
+ |
+ ├── Backend/
+      ├── JavaScript
+      ├── MongoDB
+      ├── Backend
+      ├── NodeJS
+      ├── ExpressJS
+      ├── HTTP
+      ├── REST-API
+      
 
- ├── C++
- ├── Backend
- ├── Development
-
-Tech i am loving to learn
+Tech & Skills i am loving to learn
 
 ├── Golang
 ├── Databases
