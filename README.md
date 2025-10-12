@@ -49,7 +49,7 @@
       ├── REST-API
       
 
-Tech & Skills i am loving to learn
+❯ Tech & Skills i am loving to learn
 
 ├── Golang
 ├── Databases
