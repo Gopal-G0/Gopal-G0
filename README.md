@@ -26,9 +26,16 @@
 ## Techs & Skills
 ```
  Techs i love
+
  ├── C++
  ├── Backend
- ├── Developmwnt
+ ├── Development
+
+Tech i am loving to learn
+
+├── Golang
+├── Databases
+├── TUIs
 
 ```
 
