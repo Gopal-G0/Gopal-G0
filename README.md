@@ -23,6 +23,15 @@
 
 ```
 
+## Techs & Skills
+```
+ Techs i love
+ ├── C++
+ ├── Backend
+ ├── Developmwnt
+
+```
+
   
   ## 👨‍💻 Developer & Engineer
   <!-- Add some badges -->
