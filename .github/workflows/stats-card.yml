@@ -23,4 +23,4 @@ jobs:
           badge_path: assets/badge.svg
           header: "👋 hi i'm"
           about: "I love engneering & technology more than anything"
-          theme: terminal-green
+          theme: jimmy-goes-fishing
