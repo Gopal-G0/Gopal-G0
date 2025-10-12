@@ -16,6 +16,8 @@
                          ░███                     
                          █████                    
                         ░░░░░                     
+❯ interests
+- I Love engineering and tech more than anything.
 
 ```
 
