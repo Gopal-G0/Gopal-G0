@@ -1,6 +1,11 @@
 <div align="center">
   <h1> ➔ /whoami </h1>
 
+  ```
+   hello
+
+  ```
+
   <img width="433" height="204" alt="ascii-art-text" src="https://github.com/user-attachments/assets/81cf1e20-f5cf-4f8e-80f8-4602cc62bb8c" />
 
   
