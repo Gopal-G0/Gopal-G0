@@ -25,7 +25,7 @@
 
 ## Techs & Skills
 ```
- Skills
+ ❯ Skills
  |
  ├── Programming Languages/
  |   ├── C++
