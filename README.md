@@ -28,6 +28,7 @@ gopal@dev$ ❯ interests
 ## Techs & Skills
 ```
  gopal@dev$ ❯ Skills
+
  |
  ├── Programming Languages/
  |   ├── C++
@@ -58,9 +59,6 @@ gopal@dev$ ❯ Tech & Skills i am loving to learn
 ├── TUIs
 
 ```
-
-  
-  ## 👨‍💻 Developer & Engineer
   <!-- Add some badges -->
   
   <!-- GitHub stats -->
