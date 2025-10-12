@@ -1,8 +1,8 @@
 <div align="center">
   <h1> ➔ /whoami </h1> 
-
-```
-❯ Gopal
+  
+  ```
+                                                                        ❯ Gopal
     
        █████████                               ████ 
       ███░░░░░███                             ░░███ 
