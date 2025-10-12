@@ -25,7 +25,7 @@
 
 ## Techs & Skills
 ```
- Techs i love
+ Techs i love 	
 
  ├── C++
  ├── Backend
