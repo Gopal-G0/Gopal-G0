@@ -19,6 +19,7 @@
                         ░░░░░                     
 
 ❯ interests
+- i love to tweak with techs. 
 - I Love engineering and tech more than anything.
 
 ```
