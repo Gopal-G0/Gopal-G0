@@ -31,10 +31,10 @@ gopal@dev$ ❯ interests
 
  |
  ├── Programming Languages/
- |   ├── C++
+ |   ├── C++ 
  |   ├── JavaScript
- |   ├── Python
- |   ├── C
+ |   ├── Python 
+ |   ├── C 
  |
  ├── Frontend/
  |    ├── ReactJs
@@ -46,7 +46,7 @@ gopal@dev$ ❯ interests
       ├── JavaScript
       ├── MongoDB
       ├── Backend
-      ├── NodeJS
+      ├── NodeJS 
       ├── ExpressJS
       ├── HTTP
       ├── REST-API
@@ -54,8 +54,9 @@ gopal@dev$ ❯ interests
 
 gopal@dev$ ❯ Tech & Skills i am loving to learn
 
-├── Golang
-├── Databases
+├── Golang 
+├── Databases <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f6e1d445-b564-4b00-afc7-b13ab0c6cd68" />
+
 ├── TUIs
 
 ```
